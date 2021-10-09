@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="assignment4_2_0" targetName="assignment4_2_0" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4893bf5-533c-4ddb-bc1c-e3a4c528d166" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1TAc3AwDxooEAxG2AqTPbfC3oMO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="assignment4_2_0" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assignment4_2_0" TARGET_NAME="assignment4_2_0" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="assignment4_2_0" RUN_TARGET_NAME="assignment4_2_0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4893bf5-533c-4ddb-bc1c-e3a4c528d166" name="Default Changelist" comment="" />
+      <created>1572906138292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572906138292</updated>
+      <workItem from="1572906139755" duration="3725000" />
+      <workItem from="1572957888242" duration="3732000" />
+      <workItem from="1572977105122" duration="1010000" />
+      <workItem from="1572979898222" duration="22888000" />
+      <workItem from="1573408388492" duration="908000" />
+      <workItem from="1574068987426" duration="763000" />
+      <workItem from="1576173323092" duration="2000" />
+      <workItem from="1588518310570" duration="474000" />
+      <workItem from="1588525652526" duration="1000" />
+      <workItem from="1588635037392" duration="750000" />
+      <workItem from="1588637093472" duration="288000" />
+      <workItem from="1588771037367" duration="306000" />
+      <workItem from="1593106934674" duration="11000" />
+      <workItem from="1602168076568" duration="13000" />
+      <workItem from="1617053853952" duration="1329000" />
+      <workItem from="1618003146895" duration="808000" />
+      <workItem from="1618016827961" duration="658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="998" height="2" key="GridCell.Tab.0.bottom" timestamp="1588635839590">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="998" height="2" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588635839590" />
+    <state width="998" height="2" key="GridCell.Tab.0.center" timestamp="1588635839589">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="998" height="2" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588635839589" />
+    <state width="998" height="2" key="GridCell.Tab.0.left" timestamp="1588635839588">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="998" height="2" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588635839588" />
+    <state width="998" height="2" key="GridCell.Tab.0.right" timestamp="1588635839590">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="998" height="2" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588635839590" />
+    <state x="427" y="70" key="SettingsEditor" timestamp="1588635627537">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="427" y="70" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1588635627537" />
+  </component>
+</project>
